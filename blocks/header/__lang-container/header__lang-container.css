@@ -1,0 +1,6 @@
+.header__lang-container {
+    position: relative;
+    right: 0;
+    display: flex;
+    gap: 0 18px;
+}

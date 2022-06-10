@@ -1,0 +1,17 @@
+.cover__background {
+    content: "";
+    display: flex;
+    position: relative;
+    background: url(../../../images/cover-trains.jpg) no-repeat; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    z-index: 0;
+    padding-top: calc(640 / 1024 * 100%);
+}
+
+.cover__background:hover {
+    transition: opacity .5s linear;
+    opacity: .6;
+    z-index: 0;
+}
