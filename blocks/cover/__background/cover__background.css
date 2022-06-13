@@ -1,12 +1,18 @@
 .cover__background {
     content: "";
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     position: relative;
+    width: 100%;
     background: url(../../../images/cover-trains.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    width: 100%;
-    z-index: 0;
+}
+
+.cover__background::before{
+    content: "";
     padding-top: calc(640 / 1024 * 100%);
 }
 
