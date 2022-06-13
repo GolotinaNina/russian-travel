@@ -4,8 +4,7 @@
 }
 
 @media screen and (max-width:1024px) {
-
-    .place__url-heading{
+    .place__url-heading {
         font-family: Inter;
         font-size: 12px;
         font-weight: 400;

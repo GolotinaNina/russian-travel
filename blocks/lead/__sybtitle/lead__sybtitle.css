@@ -1,5 +1,4 @@
 .lead__sybtitle {
-    
     max-width: 640px;
     position: relative;
     font-family: 'Inter';
@@ -13,8 +12,7 @@
 }
 
 @media screen and (max-width:680px) {
-
-    .lead__sybtitle{
+    .lead__sybtitle {
         max-width: 288px;
         font-family: Inter;
         font-size: 16px;

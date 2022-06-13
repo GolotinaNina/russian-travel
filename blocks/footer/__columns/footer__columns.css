@@ -5,14 +5,14 @@
     margin: 92px 0 0 0;
 }
 
-@media screen and (max-width:984px){
-    .footer__columns{
+@media screen and (max-width:984px) {
+    .footer__columns {
         margin-top: 88px;
     }
 }
 
 @media screen and (max-width:680px) {
-    .footer__columns{
+    .footer__columns {
         margin-top: 64px;
         flex-direction: column;
     }

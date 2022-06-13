@@ -15,9 +15,8 @@
     opacity: .6;
 }
 
-@media screen and (max-width:984px){
-    
-    .footer__columns-link{
+@media screen and (max-width:984px) {
+    .footer__columns-link {
         font-family: Inter;
         font-size: 16px;
         font-weight: 400;
@@ -27,9 +26,8 @@
     }
 }
 
-@media screen and (max-width:680px){
-
-    .footer__columns-link{
+@media screen and (max-width:680px) {
+    .footer__columns-link {
         margin-top: 32px;
         font-family: Inter;
         font-size: 24px;
@@ -39,4 +37,3 @@
         text-align: left;
     }
 }
-

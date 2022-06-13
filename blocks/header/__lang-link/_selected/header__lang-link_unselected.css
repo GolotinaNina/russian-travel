@@ -1,7 +1,8 @@
-.header__lang-link_unselected{
+.header__lang-link_unselected {
     transition: opacity .2s linear;
     cursor: pointer;
 }
-.header__lang-link_unselected:hover{
+
+.header__lang-link_unselected:hover {
     opacity: .6;
 }

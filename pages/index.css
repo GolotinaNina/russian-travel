@@ -20,6 +20,12 @@
 @import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 @import url(../blocks/header/__lang-link/_selected/header__lang-link_unselected.css);
 
+@import url(../blocks/content/__section/content__section.css);
+@import url(../blocks/content/__section/_desktop/content__section_desktop_wide.css);
+@import url(../blocks/content/__section/_laptop/content__section_laptop_wide.css);
+@import url(../blocks/content/__section/_tablet/content__section_tablet_wide.css);
+@import url(../blocks/content/__section/_mobile/content__section_tablet_wide.css);
+
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/lead/__image/lead__image.css);
 @import url(../blocks/lead/__sybtitle/lead__sybtitle.css);
@@ -53,9 +59,9 @@
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 
 
-html,body {
+html,
+body {
     margin: 0;
-    background-color:#f0f8ff;
+    background-color: #f0f8ff;
     font-family: 'Inter', 'Arial', sans-serif;
 }
-

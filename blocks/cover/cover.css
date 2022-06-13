@@ -2,18 +2,17 @@
     margin-top: 92px;
     font-family: 'inter';
     font-weight: 400;
-    display:block;
+    display: block;
 }
 
 @media screen and (max-width:1024px) {
-    .cover{
+    .cover {
         margin-top: 90px;
     }
 }
 
 @media screen and (max-width:768px) {
-
-    .cover{
+    .cover {
         margin-top: 66px;
     }
 }

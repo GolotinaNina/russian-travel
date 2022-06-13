@@ -12,8 +12,7 @@
 }
 
 @media screen and (max-width:680px) {
-
-    .header__lang-link{
+    .header__lang-link {
         font-family: Inter;
         font-size: 18px;
         font-weight: 400;

@@ -2,7 +2,7 @@
     content: "";
     display: flex;
     position: relative;
-    background: url(../../../images/cover-trains.jpg) no-repeat; 
+    background: url(../../../images/cover-trains.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
