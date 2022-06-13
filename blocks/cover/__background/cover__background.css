@@ -9,15 +9,10 @@
     background: url(../../../images/cover-trains.jpg) no-repeat;
     background-size: cover;
     background-position: center;
+    z-index: -2;
 }
 
-.cover__background::before{
+.cover__background::before {
     content: "";
     padding-top: calc(640 / 1024 * 100%);
-}
-
-.cover__background:hover {
-    transition: opacity .5s linear;
-    opacity: .6;
-    z-index: 0;
 }

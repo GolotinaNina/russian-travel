@@ -6,6 +6,11 @@
     letter-spacing: 0em;
     text-align: left;
     color: #FFFFFF;
+    margin-top: 26px;
+}
+
+.place__paragraph:first-of-type {
+    margin-top: 0;
 }
 
 @media screen and (max-width:1024px) {

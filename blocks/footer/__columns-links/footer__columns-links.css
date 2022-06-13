@@ -4,6 +4,7 @@
     padding: 0;
     width: 359px;
     gap: 0 18px;
+    list-style-type: none;
 }
 
 @media screen and (max-width:680px) {
