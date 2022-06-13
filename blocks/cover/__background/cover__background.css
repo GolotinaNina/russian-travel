@@ -9,7 +9,6 @@
     background: url(../../../images/cover-trains.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    z-index: -2;
 }
 
 .cover__background::before {
