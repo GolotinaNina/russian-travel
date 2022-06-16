@@ -1,4 +1,4 @@
-@media screen and (max-width:984px) {
+@media screen and (max-width:984px) and (min-width:681px) {
     .content__section_tablet_wide {
         padding: 0;
     }
