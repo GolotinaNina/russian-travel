@@ -26,7 +26,7 @@
     }
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:740px) {
     .footer__columns-link {
         margin-top: 32px;
         font-family: Inter;
