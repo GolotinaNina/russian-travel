@@ -1,5 +1,4 @@
 .page {
-    position: relative;
     max-width: 1280px;
     margin: 0 auto;
     min-height: 100vh;
@@ -14,7 +13,7 @@
 * {
     outline: 1px solid red;
 }
-@media screen and (max-width:680px) {
+@media screen and (max-width: 680px) {
     .page {
         padding:16px 0 24px;
     }
