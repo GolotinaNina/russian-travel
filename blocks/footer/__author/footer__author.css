@@ -1,10 +1,13 @@
 .footer__author {
-    right: 0;
     color: #FFFFFF;
+    margin-left: auto;
+    width: 100%;
+    text-align: right;
 }
 
 @media screen and (max-width:740px) {
     .footer__author {
         margin-top: 48px;
+        text-align: left;
     }
 }

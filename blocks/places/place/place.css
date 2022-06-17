@@ -9,25 +9,25 @@
     margin-top: 0;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1100px) {
     .place {
         grid-template-columns: 440px 456px;
         gap: 32px 48px;
     }
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:984px) {
     .place {
         margin-top: 73px;
-        grid-template-columns: 340px 352px;
+        grid-template-columns: minmax(auto,340px) minmax(auto,352px);
         gap: 28px 48px;
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:700px) {
     .place {
         margin-top: 50px;
-        grid-template-columns: 320px;
+        grid-template-columns: repeat(auto-fit, minmax(100%, 1fr));;
         gap: 32px;
     }
 }
