@@ -14,3 +14,8 @@
 * {
     outline: 1px solid red;
 }
+@media screen and (max-width:680px) {
+    .page {
+        padding:16px 0 24px;
+    }
+}
