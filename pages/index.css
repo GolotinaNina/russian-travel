@@ -54,7 +54,3 @@
 @import url(../blocks/footer/__columns-links/footer__columns-links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__list-item/footer__list-item.css);
-
-* {
-    outline: 1px solid red;
-}
