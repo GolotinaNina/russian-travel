@@ -1,6 +1,6 @@
 .header__lang-container {
     position: relative;
-    right: 0;
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto;
     gap: 0 18px;
 }
