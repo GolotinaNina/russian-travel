@@ -13,13 +13,16 @@
     left: 0;
     height: 100%;
     width: 100%;
-    background: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     z-index: 1;
+    box-sizing: border-box;
+    padding: inherit;
+    background-clip: content-box;
 }
 
 .cover:hover::after {
     transition: all .5s linear;
-    background: #2A2C2F;
+    background-color: #2A2C2F;
     opacity: 0.8;
 }
 
