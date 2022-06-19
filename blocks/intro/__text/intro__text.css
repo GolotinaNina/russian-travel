@@ -1,5 +1,5 @@
 .intro__text {
-    font-family: 'Inter','sans-serif';
+    font-family: 'Inter', 'sans-serif';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -12,5 +12,5 @@
 @media screen and (max-width: 680px) {
     .intro__text {
         line-height: 26px;
-}
+    }
 }

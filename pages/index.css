@@ -17,10 +17,10 @@
 @import url(../blocks/header/__lang-link/_selected/header__lang-link_selected.css);
 
 @import url(../blocks/content/__section/content__section.css);
-@import url(../blocks/content/__section/_desktop/content__section_desktop-wide.css);
-@import url(../blocks/content/__section/_laptop/content__section_laptop-wide.css);
-@import url(../blocks/content/__section/_tablet/content__section_tablet-wide.css);
-@import url(../blocks/content/__section/_mobile/content__section_mobile-wide.css);
+@import url(../blocks/content/__section/_size/content__section_size_desktop-wide.css);
+@import url(../blocks/content/__section/_size/content__section_size_laptop-wide.css);
+@import url(../blocks/content/__section/_size/content__section_size_tablet-wide.css);
+@import url(../blocks/content/__section/_size/content__section_size_mobile-wide.css);
 
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/lead/__image/lead__image.css);
