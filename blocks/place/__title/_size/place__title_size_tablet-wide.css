@@ -1,0 +1,17 @@
+@media screen and (max-width: 984px) {
+    .place__title_size_tablet-wide {
+      min-height: 92px;
+      min-width: 340px;
+      padding-right: 50px;
+      box-sizing: border-box;
+
+    }
+}
+
+@media screen and (max-width: 681px) {
+    .place__title_size_tablet-wide {
+    min-height: 35px;
+    min-width: 288px;
+    padding-right: 0;
+  }
+}    
