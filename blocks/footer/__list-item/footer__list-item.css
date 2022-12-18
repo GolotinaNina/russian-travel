@@ -1,18 +1,9 @@
-.footer__list-item:last-of-type {
-    margin-left: auto;
-}
-
-@media screen and (max-width: 740px) {
+  @media screen and (max-width: 740px) {
     .footer__list-item:first-of-type {
         margin-top: 0;
     }
 
     .footer__list-item {
         margin-top: 32px;
-    }
-
-    .footer__list-item:last-of-type {
-        margin-top: 48px;
-        margin-left: 0;
     }
 }
